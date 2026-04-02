@@ -1,0 +1,16 @@
+.head {
+    background-color: bisque;
+    width: auto;
+}
+
+.section-1 {
+    background-color:aquamarine;
+    width: auto;
+}
+
+.footer {
+    background-color:darkgreen;
+    width: auto;
+    height: 10em;
+    color: white;
+}
