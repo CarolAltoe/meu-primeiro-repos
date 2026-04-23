@@ -17,8 +17,14 @@
 }
 
 .section-1 {
-    background-color:rgb(183, 243, 223);
     width: auto;
+    text-align: center;
+}
+
+.img-logo-ifes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer {
