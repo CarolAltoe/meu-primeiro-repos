@@ -1,11 +1,30 @@
 .head {
     background-color: bisque;
-    width: auto;
+   width: auto;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    flex-direction: row;
+}
+
+.links a{
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
 }
 
 .section-1 {
-    background-color:rgb(183, 243, 223);
     width: auto;
+    text-align: center;
+}
+
+.img-logo-ifes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer {
